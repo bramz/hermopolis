@@ -1,0 +1,9 @@
+# Build files, configs and data
+build/*
+config/*
+data/*
+
+# Generated redundancy
+CMakeCache.txt
+CMakeFiles/*
+cmake_install.cmake
