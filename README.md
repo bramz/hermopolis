@@ -1,4 +1,4 @@
-# Hermpolis
+# Hermopolis
 A modern C++ multi-project for learning purposes.
 
 ## Setup and Prerequisites
